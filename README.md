@@ -4,7 +4,7 @@ This page is used to inform visitors regarding my policies with the collection, 
 
 # Security
 
-I appreciate your trust in using this app, I want you to know that I am using only current location information to detect qibla direction and prayer times and do not using any other personal information of you. But remember that no method of transmission over the Internet or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+I appreciate your trust in using this app, I want you to know that I do not using any personal information of you. But remember that no method of transmission over the Internet or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
 # Links to Other Sites
 
